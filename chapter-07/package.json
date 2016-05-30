@@ -1,0 +1,27 @@
+{
+  "name": "angular2-tutorial",
+  "version": "1.0.0",
+  "description": "angularjs 2 tutorial by coachemaxz",
+  "main": "server.js",
+  "scripts": {
+    "start": "live-server --port=3000 --host=localhost"
+  },
+  "keywords": [
+    "angularjs2",
+    "nodejs"
+  ],
+  "author": "eakkabin jaikeawma <eakkabin_it@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.6",
+    "systemjs": "^0.19.28",
+    "zone.js": "^0.6.12"
+  },
+  "devDependencies": {
+    "lite-server": "^2.0.1",
+    "typescript": "^1.8.10"
+  }
+}
